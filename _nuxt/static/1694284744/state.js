@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1694284744",layout:"default",error:a,serverRendered:true,routePath:b,config:{name:"Dommeti Suryanarayana Murthy",dates:"November 17th 1933 - September 2nd 2023",_app:{basePath:b,assetsPath:"\u002F_nuxt\u002F",cdnURL:a}}}}(null,"\u002F"));
